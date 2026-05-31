@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefetch",
+        "uuid": 7918560,
+        "checksum": "pebau"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
